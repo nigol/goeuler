@@ -1,8 +1,8 @@
 package problem1
 
 import (
-	"testing"
 	"fmt"
+	"testing"
 )
 
 func TestMultiples3_5(t *testing.T) {
